@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic "CMakeFiles/aoc23-day4-scratchcards.dir/main.cpp.o" -o aoc23-day4-scratchcards 
